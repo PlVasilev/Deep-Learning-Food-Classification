@@ -1,0 +1,2 @@
+[0214/080330.405:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\XellFIRE\AppData\Local\Google\Chrome\User Data\Crashpad\reports\01bbfa1c-10d2-4fa9-a5e1-d73312b61dd6.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[0215/183615.816:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\XellFIRE\AppData\Local\Google\Chrome\User Data\Crashpad\reports\323a3426-941b-47d0-9133-6b996cd85679.dmp: The process cannot access the file because it is being used by another process. (0x20)
