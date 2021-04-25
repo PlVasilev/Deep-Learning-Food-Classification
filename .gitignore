@@ -17,6 +17,7 @@
 mono_crash.*
 
 # Build results
+.ipynb_checkpoints/
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
@@ -349,4 +350,4 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-.ipynb_checkpoints/
+

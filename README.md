@@ -7,7 +7,7 @@ The notebook has been shut down around 3 times a day,mostly due to problems in h
 1. The data is not included - 5.45 GB
 2. There is no cached data - 115 GB (only indexes are kept)
 3. The saved models are not included 19 models are 5.33 GB (best model CNN-16 315 MB)
-4. The log are not included 171 MB of data for 21 models.
+4. The logs are not included 171 MB of data for 21 models.
 5. The documet is done for about 290h of PC working time and 120h - 130h work done by me and I have to apologize for typos.
 *Enjoy.*
 
